@@ -10,7 +10,7 @@
 			"shortDesc": "Initialize the app with Node.js and create the skeleton of the app",
 			"path": "skeletonApp/",
 			"longDescPath": "README.md",
-			"canChangeWith": [],
+			"next": "d2fb13fb-f588-48e2-a74b-5fdf1ecfc527",
 			"id": "ef2a38e3-6ce8-4957-a2f2-6bbb8b8fb0f6"
 		},
 		{
@@ -19,6 +19,7 @@
 			"path": "apiLayout/",
 			"longDescPath": "README.md",
 			"canChangeWith": [],
+			"next": false,
 			"id": "d2fb13fb-f588-48e2-a74b-5fdf1ecfc527"
 		}
 	],
