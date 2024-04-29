@@ -1,8 +1,9 @@
 {
 	"name": "template",
-	"description": "this will be used as the base for projects",
+	"shortDesc": "this will be used as the base for projects",
 	"numParts": 2,
-	"projectDescription": "PROJECT.md",
+	"longDescPath": "PROJECT.md",
+	"completeMessage": "Thanks for completing my [x] project! This took me [y] hours/days/weeks, and if you liked it hmu at <@U066LL4JBDL>.",
 	"id": "73894aa3-a38e-4626-a7c4-bd13695048da",
 	"parts": [
 		{
