@@ -10,7 +10,6 @@
 			"shortDesc": "Initialize the app with Node.js and create the skeleton of the app",
 			"path": "skeletonApp/",
 			"longDescPath": "README.md",
-			"notesForNextPerson": "NOTES.md",
 			"canChangeWith": [],
 			"id": "ef2a38e3-6ce8-4957-a2f2-6bbb8b8fb0f6"
 		},
@@ -19,13 +18,12 @@
 			"shortDesc": "Use markdown to create a basic overview of the API",
 			"path": "apiLayout/",
 			"longDescPath": "README.md",
-			"notesForNextPerson": "(COPY)",
 			"canChangeWith": [],
 			"id": "d2fb13fb-f588-48e2-a74b-5fdf1ecfc527"
 		}
 	],
 	"idMap": {
-		"ef2a38e3-6ce8-4957-a2f2-6bbb8b8fb0f6": "basic skeleton of app",
-		"d2fb13fb-f588-48e2-a74b-5fdf1ecfc527": "basic layout of api"
+		"ef2a38e3-6ce8-4957-a2f2-6bbb8b8fb0f6": 0,
+		"d2fb13fb-f588-48e2-a74b-5fdf1ecfc527": 1
 	}
 }
